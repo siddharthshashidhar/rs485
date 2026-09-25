@@ -1,16 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"name": "esp32dev",
-			"path": "C:/Users/Siddharth/OneDrive/Documents/PlatformIO/Projects/esp32dev"
-		},
-		{
-			"name": "espc3",
-			"path": "C:/Users/Siddharth/OneDrive/Documents/PlatformIO/Projects/espc3"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "esp32dev",
+      "path": "esp32dev"
+    },
+    {
+      "name": "espc3",
+      "path": "espc3"
+    }
+  ],
+  "settings": {}
 }
